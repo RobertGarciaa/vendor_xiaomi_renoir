@@ -253,6 +253,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/evass.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/evass.mdt \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/goodix_gt9897t_cfg_k9.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_gt9897t_cfg_k9.bin \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/goodix_gt9897t_fw_k9.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/goodix_gt9897t_fw_k9.bin \
+    vendor/xiaomi/renoir/proprietary/vendor/firmware/msbtfw11.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw11.mbn \
+    vendor/xiaomi/renoir/proprietary/vendor/firmware/msbtfw11.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/msbtfw11.tlv \
+    vendor/xiaomi/renoir/proprietary/vendor/firmware/msnv11.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/msnv11.bin \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/ipa_fws.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b00 \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
     vendor/xiaomi/renoir/proprietary/vendor/firmware/ipa_fws.b02:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b02 \
